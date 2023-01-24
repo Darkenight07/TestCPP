@@ -31,7 +31,7 @@ int main() {
 	cout << "\n\n";
 	// Combinando texto con variables
 	int miedad = 18;
-	cout << "Tengo " << miedad << " años\n";
+	cout << "Tengo " << miedad << " aÃ±os\n";
 	cout << "Sumando variables\n\n";
 	int num1 = 5;
 	int num2 = 2;
