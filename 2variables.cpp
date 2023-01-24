@@ -44,6 +44,6 @@ int main() {
 	// son inmutables y de solo lectura
 	/*
 	const int myNum = 15;
-	myNum = 10;
+	myNum = 10; 
 	*/
 }
